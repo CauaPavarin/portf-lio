@@ -11,7 +11,7 @@ Este é o meu portfólio pessoal, desenvolvido para mostrar minhas habilidades, 
 #### **Funcionalidades:**
 - **Design Responsivo**: O site é totalmente responsivo, adaptando-se a diferentes tamanhos de tela.
 - **Animações Personalizadas**: Animações suaves ao rolar a página para melhorar a experiência do usuário.
-- **Formulário de Contato Funcional**: Integração com Flask e Flask-Mail para enviar e-mails diretamente do site.
+- **Formulário de Contato Funcional**: Integração com Flask e Flask-Mail para enviar e-mails diretamente do site. No momento não está funcionando o envio de e-mails
 - **Barra Lateral Interativa**: Menu lateral que destaca a seção atual conforme o usuário navega pela página.
 - **Seções Organizadas**:
   - **Início**: Apresentação inicial com uma breve introdução.
